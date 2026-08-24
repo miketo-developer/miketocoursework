@@ -19,6 +19,8 @@ export default function MateriaPage({ params }: { params: Promise<{ slug: string
   const [activeTab, setActiveTab] = useState<TabType>("sencillo");
   const [selectedImg, setSelectedImg] = useState<string | null>(null);
 
+  const ENABLE_MERCADOPAGO = false;
+
   if (!materia) {
     return (
       <div className="min-h-screen bg-slate-50 dark:bg-[#0B1121] flex items-center justify-center p-4">
@@ -136,12 +138,12 @@ export default function MateriaPage({ params }: { params: Promise<{ slug: string
                       <span className="text-xs font-bold text-slate-400">MXN</span>
                     </div>
                     <div className="grid grid-cols-2 gap-3">
-                      {opt.mp && (
-                        <a href={opt.mp} target="_blank" rel="noopener noreferrer" className="text-center py-3 rounded-xl bg-[#009EE3] hover:bg-[#0089C7] text-white text-xs font-bold transition-colors">
+                      {ENABLE_MERCADOPAGO && opt.mp && (
+                        <a href={opt.mp} target="_blank" rel="noopener noreferrer" className="text-center py-3 rounded-xl bg-[#009EE3] hover:bg-[#0089C7] text-white text-xs font-bold">
                           Mercado Pago
                         </a>
                       )}
-                      <a href={getWaLink(`${materia.whatsappText} - Quiero ${opt.label} $${opt.price}`)} target="_blank" rel="noopener noreferrer" className={`text-center py-3 rounded-xl bg-[#00BFFF] hover:bg-[#0099cc] text-white text-xs font-bold transition-colors ${!opt.mp ? 'col-span-2' : ''}`}>
+                      <a href={getWaLink(`${materia.whatsappText} - Quiero ${opt.label} $${opt.price}`)} target="_blank" rel="noopener noreferrer" className={`text-center py-3 rounded-xl bg-[#00BFFF] text-white text-xs font-bold ${!ENABLE_MERCADOPAGO || !opt.mp ? 'col-span-2' : ''}`}>
                         WhatsApp
                       </a>
                     </div>
