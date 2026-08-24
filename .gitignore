@@ -1,41 +1,42 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Dependencias de Node
+node_modules/
+/npm-debug.log*
+/yarn-error.log*
+/yarn-debug.log*
+/pnpm-debug.log*
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# Compilación y producción de Next.js
+.next/
+out/
+build/
 
-# testing
-/coverage
+# Archivos temporales de Next.js PWA (serwist / next-pwa)
+public/sw.js
+public/sw.js.map
+public/workbox-*.js
+public/workbox-*.js.map
+public/fallback-*.js
+tsconfig.tsbuildinfo
 
-# next.js
-/.next/
-/out/
+# Variables de entorno y llaves secretas (¡NUNCA SUBIR A GITHUB!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.flash
 
-# production
-/build
+# Archivos de configuración locales de Sanity CLI
+.sanity/
 
-# misc
+# Archivos del sistema operativo y editores
 .DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+/*.local
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

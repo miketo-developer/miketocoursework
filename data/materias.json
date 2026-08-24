@@ -1,0 +1,1659 @@
+[
+  {
+    "id": "matematicas-discretas",
+    "slug": "matematicas-discretas",
+    "nombre": "Matemáticas discretas",
+    "descripcion": "Guía para comprender teoría de conjuntos, diagramas de Venn y lógica matemática aplicada a la computación de acuerdo al temario y retos de la ing en Sistemas.\n\nLibros de regalo.",
+    "nivel": 1,
+    "tipo": "sencilla",
+    "tags": [
+      "Lógica",
+      "Conjuntos",
+      "Diagramas de Venn"
+    ],
+    "retos": [
+      "Reto 3. Operaciones con conjuntos y su representación",
+      "Reto 7. Propiedades de las relaciones: representación gráfica"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 60,
+      "copiaMateriaSencilla": 100
+    },
+    "capturas": [
+      "/capturas/matematicas-discretas-1.jpg",
+      "/capturas/matematicas-discretas-2.jpg",
+      "/capturas/matematicas-discretas-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de la materia Matemáticas discretas - MiketoCourseWork"
+  },
+  {
+    "id": "idioma-extranjero-1",
+    "slug": "idioma-extranjero-i",
+    "nombre": "Idioma extranjero I",
+    "descripcion": "Resolución de ejercicios de gramática, vocabulario básico y redacción de textos introductorios.",
+    "nivel": 1,
+    "tipo": "sencilla",
+    "tags": [
+      "Inglés",
+      "Gramática",
+      "Vocabulario"
+    ],
+    "retos": [
+      "Reto 1. This is my presentation",
+      "Reto 2. Who are you?",
+      "Reto 3. There are many things to learn",
+      "Reto 4: Daily routines",
+      "Reto 5. What are you doing now?"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 30,
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/idioma-ext-1.jpg",
+      "/capturas/idioma-ext-2.jpg",
+      "/capturas/idioma-ext-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de la materia Idioma extranjero I - MiketoCourseWork"
+  },
+  {
+    "id": "intro-sistemas-computacionales",
+    "slug": "introduccion-a-los-sistemas-computacionales",
+    "nombre": "Introducción a los sistemas computacionales",
+    "descripcion": "Bases teóricas sobre arquitectura de computadoras, software, hardware y representación de datos.",
+    "nivel": 1,
+    "tipo": "sencilla",
+    "tags": [
+      "Hardware",
+      "Software",
+      "Arquitectura"
+    ],
+    "retos": [
+      "Reto 3: Prototipo servilleta. ¿Cómo lo resuelvo?"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 60
+    },
+    "capturas": [
+      "/capturas/intro-sistemas-1.jpg",
+      "/capturas/intro-sistemas-2.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Introducción a los sistemas computacionales - MiketoCourseWork"
+  },
+  {
+    "id": "sistemas-operativos",
+    "slug": "sistemas-operativos",
+    "nombre": "Sistemas operativos",
+    "descripcion": "Aprende la administración de memoria, la gestión de procesos y el manejo de sistemas de archivos paso a paso.",
+    "nivel": 1,
+    "tipo": "compleja",
+    "tags": [
+      "Procesos",
+      "Memoria",
+      "Shell"
+    ],
+    "retos": [
+      "Reto 1 - Evolución y estructura de los sistemas operativos",
+      "Reto 3 - Procesos, hilos y gestión de memoria",
+      "Reto 5 - Administración de un sistema operativo"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 80,
+      "copiaRetoComplejo": 200,
+      "copiaMateriaSencilla": 100,
+      "copiaMateriaCompleja": 400,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoRetoComplejo": 400,
+      "personalizadoMateriaSencilla": 500,
+      "personalizadoMateriaCompleja": 800
+    },
+    "capturas": [
+      "/capturas/so-1.jpg",
+      "/capturas/so-2.jpg",
+      "/capturas/so-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de la materia Sistemas operativos - MiketoCourseWork"
+  },
+  {
+    "id": "fundamentos-bases-datos",
+    "slug": "fundamentos-de-bases-de-datos",
+    "nombre": "Fundamentos de bases de datos",
+    "descripcion": "Aprende el modelado entidad-relación y consultas básicas. Ideal para empezar a diseñar esquemas relacionales sólidos.",
+    "nivel": 2,
+    "tipo": "compleja",
+    "tags": [
+      "Modelo E-R",
+      "Consultas",
+      "Normalización"
+    ],
+    "retos": [
+      "Reto 1 - Modelo Entidad-Relación",
+      "Reto 3 - Crea tu primer diseño de Base de Datos",
+      "Reto 4 - Transformación de mi base de datos",
+      "Reto 5 - Normalización de mi base de datos"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 150
+    },
+    "capturas": [
+      "/capturas/fund-bd-1.jpg",
+      "/capturas/fund-bd-2.jpg",
+      "/capturas/fund-bd-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Fundamentos de bases de datos - MiketoCourseWork"
+  },
+  {
+    "id": "fundamentos-programacion",
+    "slug": "fundamentos-de-programacion",
+    "nombre": "Fundamentos de programación",
+    "descripcion": "Domina la lógica base. Guías paso a paso para comenzar tu primer código estructurado en Java.",
+    "nivel": 2,
+    "tipo": "sencilla",
+    "tags": [
+      "Lógica",
+      "Algoritmo",
+      "Java"
+    ],
+    "retos": [
+      "Reto 2 - Foro Errores de código compiladores e interpretes",
+      "Reto 4 - Pseudocódigo y diagrama de flujo",
+      "Reto 6 - Funciones y arreglos"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/fund-prog-1.jpg",
+      "/capturas/fund-prog-2.jpg",
+      "/capturas/fund-prog-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Fundamentos de programación - MiketoCourseWork"
+  },
+  {
+    "id": "criptografia",
+    "slug": "criptografia",
+    "nombre": "Criptografía",
+    "descripcion": "Resolución de ecuaciones de primer grado, polinomios y factorización con procedimientos detallados.",
+    "nivel": 10,
+    "tipo": "sencilla",
+    "tags": [
+      "Ecuaciones"
+    ],
+    "retos": [
+      "Reto 1 - Foro y Entregable Criptografía clásica",
+      "Reto 2 - Examen",
+      "Reto 3 - Transacciones en Bitcoin",
+      "Reto 4 - Reporte de investigación y caso práctico",
+      "Reto 5 - OpenPGP: Firmas digitales y Proof of existence"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 180
+    },
+    "capturas": [
+      "/capturas/cripto-1.jpg",
+      "/capturas/cripto-2.jpg",
+      "/capturas/cripto-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Álgebra I - MiketoCourseWork"
+  },
+  {
+    "id": "idioma-extranjero-2",
+    "slug": "idioma-extranjero-ii",
+    "nombre": "Idioma extranjero II",
+    "descripcion": "Estructuras intermedias de gramática, comprensión lectora y redacción de párrafos descriptivos.",
+    "nivel": 2,
+    "tipo": "sencilla",
+    "tags": [
+      "Inglés",
+      "Lectura",
+      "Redacción"
+    ],
+    "retos": [
+      "Reto 2 - My best moment"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 15
+    },
+    "capturas": [
+      "/capturas/idioma-ext2-1.jpg",
+      "/capturas/idioma-ext2-2.jpg",
+      "/capturas/idioma-ext2-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Idioma extranjero II - MiketoCourseWork"
+  },
+  {
+    "id": "redes-blockchain",
+    "slug": "redes-blockchain",
+    "nombre": "Redes de Blockchain",
+    "descripcion": "Aprende los fundamentos de Blockchain y sus aplicaciones en el mundo moderno.",
+    "nivel": 10,
+    "tipo": "sencilla",
+    "tags": [
+      "Bloques",
+      "Nodos",
+      "Inmutabilidad"
+    ],
+    "retos": [
+      "Reto 1 - Foro",
+      "Reto 2 - Diferencias entre redes Blockchain",
+      "Reto 3 - Examen",
+      "Reto 4 - Examen",
+      "Reto 5 - ¿Cómo funciona Hyperledger?"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/redes-blockchain-1.jpg",
+      "/capturas/redes-blockchain-2.jpg",
+      "/capturas/redes-blockchain-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Blockchain - MiketoCourseWork"
+  },
+  {
+    "id": "intro-big-data",
+    "slug": "intro-big-data",
+    "nombre": "Introducción al Big Data",
+    "descripcion": "Aprende las bases y fundamentos de lo que es el Big Data.",
+    "nivel": 10,
+    "tipo": "sencilla",
+    "tags": [
+      "Big Data",
+      "Normas"
+    ],
+    "retos": [
+      "Reto 1 - Big Data ¿Qué es?",
+      "Reto 2 - ¿Cuáles son las normas y políticas de seguridad del Big Data?",
+      "Reto 3 - Examen",
+      "Reto 4 - Gobernanza para proyectos de Big Data",
+      "Reto 5 - ¡Resuelve el caso con herramientas del Big Data!"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/intro-big-data-1.jpg",
+      "/capturas/intro-big-data-2.jpg",
+      "/capturas/intro-big-data-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Introducción al Big Data - MiketoCourseWork"
+  },
+  {
+    "id": "taller-bases-datos",
+    "slug": "taller-de-bases-de-datos",
+    "nombre": "Taller de Bases de Datos",
+    "descripcion": "Prácticas intensivas de SQL. Aprende a crear triggers, vistas y procedimientos almacenados funcionales.",
+    "nivel": 3,
+    "tipo": "compleja",
+    "tags": [
+      "MySQL",
+      "Triggers",
+      "Procedimientos"
+    ],
+    "retos": [
+      "Reto 1 - Sistemas gestores de bases de datos (SGBD): análisis",
+      "Reto 2 - Crear mi primera base de datos",
+      "Reto 3 - Simulador",
+      "Reto 4 - Roles y permisos sobre una base de datos",
+      "Reto 5 - Transacciones e integridad de la información de una base de datos"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 80,
+      "copiaRetoComplejo": 200,
+      "copiaMateriaSencilla": 180,
+      "copiaMateriaCompleja": 177,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoRetoComplejo": 400,
+      "personalizadoMateriaSencilla": 500,
+      "personalizadoMateriaCompleja": 800
+    },
+    "capturas": [
+      "/capturas/taller-bd-1.jpg",
+      "/capturas/taller-bd-2.jpg",
+      "/capturas/taller-bd-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Taller de Bases de Datos - MiketoCourseWork"
+  },
+  {
+    "id": "poo",
+    "slug": "programacion-orientada-a-objetos",
+    "nombre": "Programación orientada a objetos",
+    "descripcion": "Diseña código limpio aplicando herencia, encapsulamiento y modificadores de acceso. Incluye ejercicios prácticos listos para compilar en Java.",
+    "nivel": 3,
+    "tipo": "sencilla",
+    "tags": [
+      "Java",
+      "Herencia",
+      "Encapsulamiento"
+    ],
+    "retos": [
+      "Reto 1 - Foro",
+      "Reto 2 - Examen",
+      "Reto 4 - Herencia de clases y paso de parámetros",
+      "Reto 5 - Proyecto final del paradigma orientado a objetos"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/poo-1.jpg",
+      "/capturas/poo-2.jpg",
+      "/capturas/poo-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Programación orientada a objetos - MiketoCourseWork"
+  },
+  {
+    "id": "algebra-2",
+    "slug": "algebra-ii",
+    "nombre": "Álgebra II",
+    "descripcion": "Resolución de ecuaciones de segundo grado, funciones y límites de funciones.",
+    "nivel": 3,
+    "tipo": "sencilla",
+    "tags": [
+      "Funciones",
+      "Ecuaciones",
+      "Límites"
+    ],
+    "retos": [
+      "Reto 2 - Ecuaciones cuadráticas y sistemas de ecuaciones",
+      "Reto 3 - Funciones",
+      "Reto 5 - Límites y continuidad de una función"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 60,
+      "copiaMateriaSencilla": 150
+    },
+    "capturas": [
+      "/capturas/algebra2-1.jpg",
+      "/capturas/algebra2-2.jpg",
+      "/capturas/algebra2-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Álgebra II - MiketoCourseWork"
+  },
+  {
+    "id": "intro-blockchain",
+    "slug": "intro-blockchain",
+    "nombre": "Introducción a Blockchain",
+    "descripcion": "Aprende las bases y fundamentos de lo que es Blockchain y sus aplicaciones en el mundo moderno.",
+    "nivel": 10,
+    "tipo": "sencilla",
+    "tags": [
+      "Criptografía",
+      "Hyperledger",
+      "Alastria"
+    ],
+    "retos": [
+      "Reto 1 - Foro",
+      "Reto 2 - Organizaciones Autónomas Descentralizadas",
+      "Reto 3 - ¿Cómo se utiliza una DApp?",
+      "Reto 4 - Blockchain",
+      "Reto 5 - Mi primer Smart Contract"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 150
+    },
+    "capturas": [
+      "/capturas/intro-blockchain-1.jpg",
+      "/capturas/intro-blockchain-2.jpg",
+      "/capturas/intro-blockchain-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Introducción a Blockchain - MiketoCourseWork"
+  },
+  {
+    "id": "taller-comunicacion-efectiva",
+    "slug": "taller-de-comunicacion-efectiva",
+    "nombre": "Taller de comunicación efectiva",
+    "descripcion": "Mejora tus habilidades de redacción, ortografía y expresión oral. Incluye plantillas para ensayos y discursos.",
+    "nivel": 8,
+    "tipo": "sencilla",
+    "tags": [
+      "Conversación",
+      "Conflicto",
+      "Acción"
+    ],
+    "retos": [
+      "Reto 1 - El acto comunicativo",
+      "Reto 2 - Examen",
+      "Reto 3 - Yo, en mi rol de observador",
+      "Reto 4 - Foro: Identificando conversaciones",
+      "Reto 5 - Manejo de conflicto en casa y oficina"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 80,
+      "copiaRetoComplejo": 200,
+      "copiaMateriaSencilla": 150,
+      "copiaMateriaCompleja": 400,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoRetoComplejo": 400,
+      "personalizadoMateriaSencilla": 500,
+      "personalizadoMateriaCompleja": 800
+    },
+    "capturas": [
+      "/capturas/comunicacion-1.jpg",
+      "/capturas/comunicacion-2.jpg",
+      "/capturas/comunicacion-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Taller de comunicación efectiva - MiketoCourseWork"
+  },
+  {
+    "id": "liderazgo-toma-decisiones",
+    "slug": "liderazgo-y-toma-de-decisiones",
+    "nombre": "Liderazgo y toma de decisiones",
+    "descripcion": "Resolución de casos prácticos sobre gestión de equipos, estilos de liderazgo y matrices de decisión.",
+    "nivel": 9,
+    "tipo": "sencilla",
+    "tags": [
+      "Gestión",
+      "Liderazgo",
+      "Soft Skills"
+    ],
+    "retos": [
+      "Reto 2 - Ser líder",
+      "Reto 3 - Modelos de liderazgo",
+      "Reto 4 - Foro",
+      "Reto 5 - Resolviendo un conflicto aplicando"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/liderazgo-1.jpg",
+      "/capturas/liderazgo-2.jpg",
+      "/capturas/liderazgo-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Liderazgo y toma de decisiones - MiketoCourseWork"
+  },
+  {
+    "id": "negociacion-manejo-conflictos",
+    "slug": "negociacion-y-manejo-de-conflictos",
+    "nombre": "Negociación y manejo de conflictos",
+    "descripcion": "Análisis de escenarios empresariales, tácticas de negociación y estrategias ganar-ganar.",
+    "nivel": 9,
+    "tipo": "sencilla",
+    "tags": [
+      "Negociación",
+      "Conflictos",
+      "Divergencia"
+    ],
+    "retos": [
+      "Reto 1 - Examen",
+      "Reto 2 - Foro",
+      "Reto 3 - Resolución de caso",
+      "Reto 4 - Tipos de negociación",
+      "Reto 5 - Mi experiencia en una negociación"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 180
+    },
+    "capturas": [
+      "/capturas/negociacion-1.jpg",
+      "/capturas/negociacion-2.jpg",
+      "/capturas/negociacion-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Negociación y manejo de conflictos - MiketoCourseWork"
+  },
+  {
+    "id": "calidad-servicio",
+    "slug": "calidad-en-el-servicio",
+    "nombre": "Calidad en el servicio",
+    "descripcion": "Implementación de estándares de calidad, medición de satisfacción del cliente y mejora continua.",
+    "nivel": 9,
+    "tipo": "sencilla",
+    "tags": [
+      "Calidad",
+      "Atención",
+      "Procesos"
+    ],
+    "retos": [
+      "Reto 2 - Modelos de gestión de la calidad",
+      "Reto 3 - Descubriendo los diferentes tipos de clientes",
+      "Reto 4 - Aplicación de herramientas de la calidad",
+      "Reto 5 - Análisis FODA"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 200,
+      "personalizadoMateriaSencilla": 400
+    },
+    "capturas": [
+      "/capturas/calidad-1.jpg",
+      "/capturas/calidad-2.jpg",
+      "/capturas/calidad-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Calidad en el servicio - MiketoCourseWork"
+  },
+  {
+    "id": "finanzas-personales",
+    "slug": "finanzas-personales",
+    "nombre": "Finanzas personales",
+    "descripcion": "Elaboración de presupuestos personales, gastos mensuales, buró de crédito y demás temas financieros.",
+    "nivel": 9,
+    "tipo": "sencilla",
+    "tags": [
+      "Economía",
+      "Presupuesto",
+      "Excel"
+    ],
+    "retos": [
+      "Reto 1 - Casos de estudio",
+      "Reto 2 - Mis finanzas",
+      "Reto 4 - FINTECH",
+      "Reto 5 - Planeación financiera"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 160,
+      "personalizadoMateriaSencilla": 350
+    },
+    "capturas": [
+      "/capturas/finanzas-1.jpg",
+      "/capturas/finanzas-2.jpg",
+      "/capturas/finanzas-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Finanzas personales - MiketoCourseWork"
+  },
+  {
+    "id": "redes-computadoras",
+    "slug": "redes-de-computadoras",
+    "nombre": "Redes de computadoras",
+    "descripcion": "Configuración de topologías de red, enrutamiento estático/dinámico y prácticas avanzadas en Cisco Packet Tracer.",
+    "nivel": 3,
+    "tipo": "sencilla",
+    "tags": [
+      "Información",
+      "Diseño",
+      "Red"
+    ],
+    "retos": [
+      "Reto 2 - Subredes",
+      "Reto 8 - Análisis de casos: seguridad y diseño de una red inalámbrica"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 80,
+      "copiaRetoComplejo": 200,
+      "copiaMateriaSencilla": 120,
+      "copiaMateriaCompleja": 400,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoRetoComplejo": 400,
+      "personalizadoMateriaSencilla": 500,
+      "personalizadoMateriaCompleja": 800
+    },
+    "capturas": [
+      "/capturas/redes-1.jpg",
+      "/capturas/redes-2.jpg",
+      "/capturas/redes-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Redes de computadoras - MiketoCourseWork"
+  },
+  {
+    "id": "admin-bases-datos",
+    "slug": "administracion-de-bases-de-datos",
+    "nombre": "Administración de bases de datos",
+    "descripcion": "Gestión de usuarios, roles, privilegios y creación de respaldos (Backups) en consola.",
+    "nivel": 4,
+    "tipo": "compleja",
+    "tags": [
+      "Bitácora",
+      "Respaldo",
+      "Monitoreo"
+    ],
+    "retos": [
+      "Reto 1 - Foro",
+      "Reto 2 - Examen capturas",
+      "Reto 3 - Generar una Bitácora de Trabajo",
+      "Reto 4 - Respaldo, recuperación y migración de bases de datos",
+      "Reto 5 - Monitorear una Base de Datos"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 80,
+      "copiaMateriaSencilla": 200,
+      "personalizadoRetoSencillo": 150,
+      "personalizadoMateriaSencilla": 400
+    },
+    "capturas": [
+      "/capturas/admin-bd-1.jpg",
+      "/capturas/admin-bd-2.jpg",
+      "/capturas/admin-bd-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Administración de bases de datos - MiketoCourseWork"
+  },
+  {
+    "id": "tap",
+    "slug": "topicos-avanzados-de-programacion",
+    "nombre": "Tópicos avanzados de programación",
+    "descripcion": "Desarrollo de interfaces gráficas (GUI), manejo de eventos y concurrencia. Código 100% funcional y comentado.",
+    "nivel": 4,
+    "tipo": "compleja",
+    "tags": [
+      "GUI",
+      "Eventos",
+      "Hilos"
+    ],
+    "retos": [
+      "Reto 1 - UML y eventos",
+      "Reto 2 - Simulador",
+      "Reto 3 - Librería de interfaz gráfica",
+      "Reto 4 - Foro UX",
+      "Reto 5 - Programación concurrente e hilos"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 90,
+      "copiaRetoComplejo": 200,
+      "copiaMateriaSencilla": 220,
+      "copiaMateriaCompleja": 400,
+      "personalizadoRetoSencillo": 120,
+      "personalizadoRetoComplejo": 400,
+      "personalizadoMateriaSencilla": 400,
+      "personalizadoMateriaCompleja": 800
+    },
+    "capturas": [
+      "/capturas/tap-1.jpg",
+      "/capturas/tap-2.jpg",
+      "/capturas/tap-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Tópicos avanzados de programación - MiketoCourseWork"
+  },
+  {
+    "id": "calculo",
+    "slug": "calculo",
+    "nombre": "Cálculo",
+    "descripcion": "Solución de derivadas, límites e integrales con procedimientos matemáticos claros y verificables.",
+    "nivel": 4,
+    "tipo": "compleja",
+    "tags": [
+      "Límites",
+      "Derivadas",
+      "Integrales"
+    ],
+    "retos": [
+      "Reto 1 - Vamos a derivar",
+      "Reto 2 - Foro Importancia de las derivadas",
+      "Reto 3 - Análisis y graficación de funciones",
+      "Reto 5 - Solución de problemas aplicando las integrales"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 100,
+      "copiaMateriaSencilla": 250,
+      "personalizadoRetoSencillo": 150,
+      "personalizadoMateriaSencilla": 400
+    },
+    "capturas": [
+      "/capturas/calculo-1.jpg",
+      "/capturas/calculo-2.jpg",
+      "/capturas/calculo-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Cálculo - MiketoCourseWork"
+  },
+  {
+    "id": "idioma-extranjero-4",
+    "slug": "idioma-extranjero-iv",
+    "nombre": "Idioma extranjero IV",
+    "descripcion": "Inglés técnico avanzado. Redacción de correos formales, currículums y simulaciones de entrevistas de trabajo en IT.",
+    "nivel": 4,
+    "tipo": "sencilla",
+    "tags": [
+      "Inglés",
+      "Avanzado",
+      "Business"
+    ],
+    "retos": [
+      "Reto 1 - Summary about \"is religion outdated in the 21st century?\"",
+      "Reto 2 - Foro: Written opinion of a controversial matter",
+      "Reto 3 - Examen",
+      "Reto 4 - Curriculum vitae and Job interview",
+      "Reto 5 - Innovate ideas, Strategies and solutions"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 100
+    },
+    "capturas": [
+      "/capturas/idioma-ext4-1.jpg",
+      "/capturas/idioma-ext4-2.jpg",
+      "/capturas/idioma-ext4-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Idioma extranjero IV - MiketoCourseWork"
+  },
+  {
+    "id": "admin-redes",
+    "slug": "administracion-de-redes",
+    "nombre": "Administración de redes",
+    "descripcion": "Configuración para monitorear una red con Wireshark, configuración de Pandora FMS, monitoreo de tráfico y asegurar la red con una máquina virtual.\n",
+    "nivel": 4,
+    "tipo": "compleja",
+    "tags": [
+      "Domain",
+      "Pandora FMS",
+      "SNMP"
+    ],
+    "retos": [
+      "Reto 3 - Monitoreo de una red",
+      "Reto 4 - Revisión del desempeño de una red",
+      "Reto 5 - Asegurando una red"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 100,
+      "copiaMateriaSencilla": 250,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoMateriaSencilla": 400
+    },
+    "capturas": [
+      "/capturas/admin-redes-1.jpg",
+      "/capturas/admin-redes-2.jpg",
+      "/capturas/admin-redes-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Administración de redes - MiketoCourseWork"
+  },
+  {
+    "id": "ingenieria-software",
+    "slug": "ingenieria-de-software",
+    "nombre": "Ingeniería de software",
+    "descripcion": "Diseño de diagramas UML, casos de uso, metodologías ágiles (Scrum) y levantamiento de requerimientos.",
+    "nivel": 5,
+    "tipo": "compleja",
+    "tags": [
+      "Requerimientos",
+      "Backend",
+      "Frontend"
+    ],
+    "retos": [
+      "Reto 1 - Examen",
+      "Reto 2 - Foro",
+      "Reto 3 - Caso de requerimiento de software",
+      "Reto 4 - Desarrollo del diseño arquitectónico",
+      "Reto 5 - Front-end y Back-end"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 100,
+      "copiaMateriaSencilla": 250,
+      "personalizadoRetoSencillo": 190,
+      "personalizadoMateriaSencilla": 500
+    },
+    "capturas": [
+      "/capturas/ing-software-1.jpg",
+      "/capturas/ing-software-2.jpg",
+      "/capturas/ing-software-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Ingeniería de software - MiketoCourseWork"
+  },
+  {
+    "id": "algebra-lineal",
+    "slug": "algebra-lineal",
+    "nombre": "Álgebra lineal",
+    "descripcion": "Resolución detallada de sistemas de ecuaciones, matrices, determinantes y el método de Gauss-Jordan.",
+    "nivel": 5,
+    "tipo": "compleja",
+    "tags": [
+      "Matrices",
+      "Vectores",
+      "Gauss-Jordan"
+    ],
+    "retos": [
+      "Reto 2 - Gauss Jordan",
+      "Reto 3 - ¿Qué es una matriz?",
+      "Reto 4 - Operaciones con matrices",
+      "Reto 5 - Determinantes y regla de Cramer",
+      "Reto 6 - Determinantes que puedo resolver"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 70,
+      "copiaMateriaSencilla": 250,
+      "personalizadoMateriaSencilla": 450
+    },
+    "capturas": [
+      "/capturas/algebra-lineal-1.jpg",
+      "/capturas/algebra-lineal-2.jpg",
+      "/capturas/algebra-lineal-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Álgebra lineal - MiketoCourseWork"
+  },
+  {
+    "id": "administracion-estrategica",
+    "slug": "administracion-estrategica",
+    "nombre": "Administración estratégica",
+    "descripcion": "Análisis FODA, estrategias competitivas y formulación de planes de acción para entornos empresariales tecnológicos.",
+    "nivel": 5,
+    "tipo": "compleja",
+    "tags": [
+      "Estrategia",
+      "FODA",
+      "Decisiones"
+    ],
+    "retos": [
+      "Reto 1 - Las tendencias en las tecnologías de la información FORO",
+      "Reto 2 - Construcción de una matriz FODA",
+      "Reto 3 - Definición de estrategias",
+      "Reto 4 - Toma de decisiones",
+      "Reto 5 - Herramientas estratégicas"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 80,
+      "copiaRetoComplejo": 200,
+      "copiaMateriaSencilla": 200,
+      "copiaMateriaCompleja": 400,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoRetoComplejo": 400,
+      "personalizadoMateriaSencilla": 500,
+      "personalizadoMateriaCompleja": 800
+    },
+    "capturas": [
+      "/capturas/admin-estrategica-1.jpg",
+      "/capturas/admin-estrategica-2.jpg",
+      "/capturas/admin-estrategica-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Administración estratégica - MiketoCourseWork"
+  },
+  {
+    "id": "gestion-proyectos-software",
+    "slug": "gestion-de-proyectos-de-software",
+    "nombre": "Gestión de proyectos de software",
+    "descripcion": "Planeación, estimación de costos, diagramas de Gantt y gestión de riesgos para proyectos de TI.",
+    "nivel": 6,
+    "tipo": "compleja",
+    "tags": [
+      "Proyectos",
+      "Gantt",
+      "Gestión"
+    ],
+    "retos": [
+      "Reto 1 - Examen",
+      "Reto 2 - Foro",
+      "Reto 3 - Modelos de Gestión de Proyectos de Software",
+      "Reto 4 - ¿Cuál es el mejor modelo de gestión de proyectos de software?",
+      "Reto 5 - Project Charter"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 120,
+      "copiaMateriaSencilla": 250,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoMateriaSencilla": 500
+    },
+    "capturas": [
+      "/capturas/gestion-proyectos-1.jpg",
+      "/capturas/gestion-proyectos-2.jpg",
+      "/capturas/gestion-proyectos-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Gestión de proyectos de software - MiketoCourseWork"
+  },
+  {
+    "id": "probabilidad-estadistica",
+    "slug": "probabilidad-y-estadistica",
+    "nombre": "Probabilidad y estadística",
+    "descripcion": "Resolución de distribuciones, medidas de tendencia central y probabilidad aplicada con uso de fórmulas detalladas.",
+    "nivel": 6,
+    "tipo": "compleja",
+    "tags": [
+      "Estadística",
+      "Distribuciones",
+      "Datos"
+    ],
+    "retos": [
+      "Reto 1 - Examen",
+      "Reto 2 - Estudio estadístico aplicado a un caso real",
+      "Reto 3 - Foro: ¿Cómo aplicar el enfoque de la probabilidad y sus reglas básicas?",
+      "Reto 4 - ¿Cuáles son las técnicas de conteo?",
+      "Reto 5 - ¿Cómo se utiliza el teorema de Bayes y la distribución normal?"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 160,
+      "copiaRetoSencillo": 60
+    },
+    "capturas": [
+      "/capturas/probabilidad-1.jpg",
+      "/capturas/probabilidad-2.jpg",
+      "/capturas/probabilidad-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Probabilidad y estadística - MiketoCourseWork"
+  },
+  {
+    "id": "inteligencia-artificial",
+    "slug": "inteligencia-artificial",
+    "nombre": "Inteligencia artificial",
+    "descripcion": "Implementación de algoritmos de búsqueda, árboles de decisión y conceptos base de Machine Learning en Python.",
+    "nivel": 6,
+    "tipo": "compleja",
+    "tags": [
+      "Python",
+      "IA",
+      "Algoritmos"
+    ],
+    "retos": [
+      "Reto 1 - Examen",
+      "Reto 2 - ¿Reconoce las posturas ee implicaciones de la inteligencia artificial?",
+      "Reto 3 - Examen",
+      "Reto 4 - Foro: ¿Comprendes la aportación de los métodos de optimización...",
+      "Reto 5 - ¿Reconoces los usos y aplicaciones del aprendizaje de máquinas?",
+      "Reto 6 - ¿Cuáles son los aportes de la Inteligencia artificial a los..."
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/ia-1.jpg",
+      "/capturas/ia-2.jpg",
+      "/capturas/ia-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Inteligencia artificial - MiketoCourseWork"
+  },
+  {
+    "id": "aseguramiento-calidad-software",
+    "slug": "aseguramiento-de-la-calidad-del-software",
+    "nombre": "Aseguramiento de la calidad del software",
+    "descripcion": "Diseño de planes de pruebas (Testing), casos de prueba y auditorías de código garantizando software libre de bugs.",
+    "nivel": 7,
+    "tipo": "compleja",
+    "tags": [
+      "Pruebas",
+      "Rendimiento",
+      "Censo"
+    ],
+    "retos": [
+      "Reto 1 - Foro",
+      "Reto 2 - Examen",
+      "Reto 3 - ¿Qué debemos probar?",
+      "Reto 4 - ¿Qué tipos de prueba debo aplicar?",
+      "Reto 5 - Documentamos todo en el plan de pruebas"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 100,
+      "copiaMateriaSencilla": 200,
+      "personalizadoRetoSencillo": 180,
+      "personalizadoMateriaSencilla": 500
+    },
+    "capturas": [
+      "/capturas/qa-1.jpg",
+      "/capturas/qa-2.jpg",
+      "/capturas/qa-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Aseguramiento de la calidad del software - MiketoCourseWork"
+  },
+  {
+    "id": "etica-responsabilidad-social",
+    "slug": "etica-y-responsabilidad-social",
+    "nombre": "Ética y responsabilidad social",
+    "descripcion": "Análisis de dilemas éticos en la tecnología, privacidad de datos y el impacto social del desarrollo de software.",
+    "nivel": 7,
+    "tipo": "sencilla",
+    "tags": [
+      "Ética",
+      "Valores",
+      "Social"
+    ],
+    "retos": [
+      "Reto 1 - Examen",
+      "Reto 2 - Comportamiento ético",
+      "Reto 3 - Responsabilidad social",
+      "Reto 4 - Ética profesional",
+      "Reto 5 - Empresa socialmente responsable"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 180
+    },
+    "capturas": [
+      "/capturas/etica-1.jpg",
+      "/capturas/etica-2.jpg",
+      "/capturas/etica-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Ética y responsabilidad social - MiketoCourseWork"
+  },
+  {
+    "id": "emprendimiento",
+    "slug": "emprendimiento",
+    "nombre": "Emprendimiento",
+    "descripcion": "Creación de modelos de negocio (Canvas), estudios de viabilidad financiera y pitch deck para proyectos tecnológicos.",
+    "nivel": 8,
+    "tipo": "sencilla",
+    "tags": [
+      "Negocios",
+      "Oportunidad",
+      "Plan"
+    ],
+    "retos": [
+      "Reto 2 - Identificando oportunidades de negocio",
+      "Reto 3 - Recursos emprendedores",
+      "Reto 4 - ¿Qué es la ventaja competitiva?",
+      "Reto 5 - El plan de negocios como estrategia"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 180,
+      "personalizadoMateriaSencilla": 400
+    },
+    "capturas": [
+      "/capturas/emprendimiento-1.jpg",
+      "/capturas/emprendimiento-2.jpg",
+      "/capturas/emprendimiento-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Emprendimiento - MiketoCourseWork"
+  },
+  {
+    "id": "programacion-web",
+    "slug": "programacion-web",
+    "nombre": "Programación web",
+    "descripcion": "Estructuración de páginas con HTML5, estilos con CSS3 y dinamismo con JavaScript vanilla. Código comentado paso a paso.",
+    "nivel": 10,
+    "tipo": "sencilla",
+    "tags": [
+      "HTML/CSS",
+      "JavaScript",
+      "Frontend"
+    ],
+    "retos": [
+      "Reto 1 - Foro",
+      "Reto 3 - Programación cliente",
+      "Reto 4 - Examen",
+      "Reto 5 - Programemos con PHP"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 140
+    },
+    "capturas": [
+      "/capturas/prog-web-1.jpg",
+      "/capturas/prog-web-2.jpg",
+      "/capturas/prog-web-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Programación web - MiketoCourseWork"
+  },
+  {
+    "id": "computo-distribuido",
+    "slug": "computo-distribuido",
+    "nombre": "Cómputo distribuido",
+    "descripcion": "Conceptos avanzados sobre arquitecturas cliente-servidor, sockets, RMI y balanceo de cargas.",
+    "nivel": 10,
+    "tipo": "compleja",
+    "tags": [
+      "Sistema",
+      "Caché",
+      "Autenticadores"
+    ],
+    "retos": [
+      "Reto 1 - Conoce el procedimiento de un sistema",
+      "Reto 3 - Foro",
+      "Reto 4 - Analiza y resuelve el caso",
+      "Reto 5 - Evita un ataque y diseña un método de seguridad"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 120
+    },
+    "capturas": [
+      "/capturas/comp-distribuido-1.jpg",
+      "/capturas/comp-distribuido-2.jpg",
+      "/capturas/comp-distribuido-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Cómputo distribuido - MiketoCourseWork"
+  },
+  {
+    "id": "intro-bases-datos-nosql",
+    "slug": "introduccion-a-bases-de-datos-nosql",
+    "nombre": "Introducción a bases de datos NoSQL",
+    "descripcion": "Modelado de datos basados en documentos, consultas avanzadas y colecciones utilizando bases de datos NoSQL.",
+    "nivel": 10,
+    "tipo": "compleja",
+    "tags": [
+      "NoSQL",
+      "Documentos",
+      "JSON"
+    ],
+    "retos": [
+      "Reto 1 - Foro: ¿Qué entendemos por base de datos NoSQL?",
+      "Reto 2 - Examen",
+      "Reto 3 - Instalar gestor de bases de datos NoSQL y crear mi primera BD NoSQL",
+      "Reto 5 - Manipular índices de bases de datos NoSQL"
+    ],
+    "precios": {
+      "copiaMateriaSencilla": 150
+    },
+    "capturas": [
+      "/capturas/nosql-1.jpg",
+      "/capturas/nosql-2.jpg",
+      "/capturas/nosql-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Introducción a bases de datos NoSQL - MiketoCourseWork"
+  },
+  {
+    "id": "desarrollo-movil-android",
+    "slug": "desarrollo-de-aplicaciones-moviles-en-android",
+    "nombre": "Desarrollo de aplicaciones móviles en Android",
+    "descripcion": "Desarrolla tu primera app nativa con Android Studio y Java. Incluye base de datos local con SQLite.",
+    "nivel": 10,
+    "tipo": "compleja",
+    "tags": [
+      "Android",
+      "Java",
+      "SQLite"
+    ],
+    "retos": [
+      "Reto 4 - Mi primera aplicación móvil",
+      "Reto 5 - Persistencia de datos"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 200,
+      "copiaMateriaSencilla": 380,
+      "personalizadoRetoSencillo": 400,
+      "personalizadoMateriaSencilla": 700
+    },
+    "capturas": [
+      "/capturas/android-1.jpg",
+      "/capturas/android-2.jpg",
+      "/capturas/android-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Desarrollo de aplicaciones móviles en Android - MiketoCourseWork"
+  },
+  {
+    "id": "desarrollo-movil-ios",
+    "slug": "desarrollo-de-aplicaciones-moviles-en-ios",
+    "nombre": "Desarrollo de aplicaciones móviles en iOS",
+    "descripcion": "Aprende el entorno de Xcode y el lenguaje Swift para estructurar aplicaciones funcionales para el ecosistema Apple.\nArchivo Word entregable + Proyecto.",
+    "nivel": 10,
+    "tipo": "compleja",
+    "tags": [
+      "iOS",
+      "Swift",
+      "Xcode"
+    ],
+    "retos": [
+      "Reto 3 - Diseño y desarrollo de aplicación iOS",
+      "Reto 5 - Desarrollando con Swift"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 200,
+      "copiaMateriaSencilla": 350
+    },
+    "capturas": [
+      "/capturas/ios-1.jpg",
+      "/capturas/ios-2.jpg",
+      "/capturas/ios-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Desarrollo de aplicaciones móviles en iOS - MiketoCourseWork"
+  },
+  {
+    "id": "desarrollo-movil-hibridas",
+    "slug": "desarrollo-de-aplicaciones-moviles-hibridas",
+    "nombre": "Desarrollo de aplicaciones móviles híbridas",
+    "descripcion": "Desarrollo con tecnologías web para exportar a múltiples plataformas utilizando herramientas como Ionic y Capacitor. Archivo entregable + Proyecto.",
+    "nivel": 10,
+    "tipo": "compleja",
+    "tags": [
+      "Ionic",
+      "Híbrido",
+      "Capacitor"
+    ],
+    "retos": [
+      "Reto 3 - Implementación de Angular en proyectos",
+      "Reto 5 - Mi primera aplicación móvil híbrida"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 200,
+      "copiaMateriaSencilla": 350,
+      "personalizadoRetoSencillo": 400,
+      "personalizadoMateriaSencilla": 700
+    },
+    "capturas": [
+      "/capturas/hibridas-1.jpg",
+      "/capturas/hibridas-2.jpg",
+      "/capturas/hibridas-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Desarrollo de aplicaciones móviles híbridas - MiketoCourseWork"
+  },
+  {
+    "id": "sistemas-programables",
+    "slug": "sistemas-programables",
+    "nombre": "Sistemas programables",
+    "descripcion": "Desarrollo con tecnologías web para exportar a múltiples plataformas utilizando herramientas como Ionic y Capacitor. Archivo entregable + Proyecto.",
+    "nivel": 10,
+    "tipo": "compleja",
+    "tags": [
+      "Microprocesadores",
+      "Chip",
+      "Sensor"
+    ],
+    "retos": [
+      "Reto 1 - Foro: Conceptos básicos de sensores",
+      "Reto 2 - Examen",
+      "Reto 3 - Microcontroladores en electrodomésticos",
+      "Reto 4 - Microprocesadores",
+      "Reto 5 - Arquitectura de un microprocesador"
+    ],
+    "precios": {
+      "copiaRetoSencillo": 200,
+      "copiaMateriaSencilla": 200,
+      "personalizadoRetoSencillo": 400,
+      "personalizadoMateriaSencilla": 700
+    },
+    "capturas": [
+      "/capturas/sist-prog-1.jpg",
+      "/capturas/sist-prog-2.jpg",
+      "/capturas/sist-prog-3.jpg"
+    ],
+    "videoDemo": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mpLinks": {
+      "copiaRetoSencillo": "https://mpago.la/link",
+      "copiaRetoComplejo": "https://mpago.la/link",
+      "copiaMateriaSencilla": "https://mpago.la/link",
+      "copiaMateriaCompleja": "https://mpago.la/link",
+      "personalizadoRetoSencillo": "https://mpago.la/link",
+      "personalizadoRetoComplejo": "https://mpago.la/link",
+      "personalizadoMateriaSencilla": "https://mpago.la/link",
+      "personalizadoMateriaCompleja": "https://mpago.la/link"
+    },
+    "whatsappText": "Hola, quiero información de Sistemas programables - MiketoCourseWork"
+  }
+]
