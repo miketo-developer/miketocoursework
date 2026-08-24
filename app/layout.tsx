@@ -17,26 +17,19 @@ export const metadata: Metadata = {
   description: "Guías paso a paso y código fuente limpio.",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
-  // Este script previene el parpadeo blanco al cargar la página en modo oscuro
-  const themeScript = `
-    let isDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    let storedTheme = localStorage.getItem('theme');
-    if (storedTheme === 'dark' || (!storedTheme && isDark)) {
-      document.documentElement.classList.add('dark');
-    } else {
-      document.documentElement.classList.remove('dark');
-    }
-  `;
+// Script anti-parpadeo blanco - se inyecta sin tag <head> para evitar error de Next 16
+const themeScript = `(function(){try{let isDark=window.matchMedia('(prefers-color-scheme: dark)').matches;let stored=localStorage.getItem('theme');if(stored==='dark'||(!stored&&isDark)){document.documentElement.classList.add('dark');}else{document.documentElement.classList.remove('dark');}}catch(e){}})();`;
 
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="es" suppressHydrationWarning>
-      <head>
-        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
-      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} min-h-screen flex flex-col antialiased`}>
+        {/* FIX Next 16: script directo en body, no dentro de <head> como React component */}
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         {children}
       </body>
     </html>
   );
 }
+
+
